@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Project_Week1_Bank_DW_Management||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|c:\\harry_song\\pre_codingtest\\pre_vs\\project_week1_bank_dw_management\\project_week1_bank_dw_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|solutionrelative:project_week1_bank_dw_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\project_week1_bank_dw_management\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|solutionrelative:project_week1_bank_dw_management\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\project_week1_bank_dw_management\\customer_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|solutionrelative:project_week1_bank_dw_management\\customer_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D55A8-9D16-49DF-B639-E8D4C6D8C9FB}|Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj|c:\\harry_song\\pre_codingtest\\pre_vs\\project_week1_bank_dw_management\\project_week1_bank_dw_management\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project_Week1_Bank_DW_Management",
+              "DocumentMoniker": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj",
+              "RelativeDocumentMoniker": "Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj",
+              "ToolTip": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj",
+              "RelativeToolTip": "Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-20T10:56:44.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Week1_Bank_DW_Management\\Program.cs",
+              "ToolTip": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Program.cs",
+              "RelativeToolTip": "Project_Week1_Bank_DW_Management\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-05T01:17:10.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer_Manager.cs",
+              "DocumentMoniker": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Customer_Manager.cs",
+              "RelativeDocumentMoniker": "Project_Week1_Bank_DW_Management\\Customer_Manager.cs",
+              "ToolTip": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Customer_Manager.cs",
+              "RelativeToolTip": "Project_Week1_Bank_DW_Management\\Customer_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-05T01:14:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Customer.cs",
+              "RelativeDocumentMoniker": "Project_Week1_Bank_DW_Management\\Customer.cs",
+              "ToolTip": "C:\\Harry_SONG\\Pre_CodingTest\\Pre_VS\\Project_Week1_Bank_DW_Management\\Project_Week1_Bank_DW_Management\\Customer.cs",
+              "RelativeToolTip": "Project_Week1_Bank_DW_Management\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-05T01:02:12.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
